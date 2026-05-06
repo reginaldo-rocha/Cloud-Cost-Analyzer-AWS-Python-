@@ -2,6 +2,8 @@
 
 Projeto simples e prático de análise de custos cloud utilizando dados da AWS e Python (Pandas).
 
+<img width="1536" height="1024" alt="ChatGPT Image 5 de mai  de 2026, 23_15_16" src="https://github.com/user-attachments/assets/0eafad83-d96f-417f-9c0e-e72d279e7244" />
+
 ---
 
 ## 🎯 Objetivo
