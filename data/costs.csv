@@ -1,0 +1,17 @@
+Service,UnblendedCost,UsageDate,Region
+Amazon EC2,120.50,2026-04-01,sa-east-1
+Amazon S3,45.30,2026-04-01,sa-east-1
+Amazon RDS,80.00,2026-04-01,sa-east-1
+AWS Lambda,15.20,2026-04-01,sa-east-1
+Amazon EC2,130.10,2026-04-02,sa-east-1
+Amazon S3,50.00,2026-04-02,sa-east-1
+Amazon RDS,78.50,2026-04-02,sa-east-1
+AWS Lambda,18.00,2026-04-02,sa-east-1
+Amazon EC2,110.00,2026-04-03,sa-east-1
+Amazon S3,47.80,2026-04-03,sa-east-1
+Amazon RDS,82.00,2026-04-03,sa-east-1
+AWS Lambda,16.50,2026-04-03,sa-east-1
+Amazon EC2,140.00,2026-04-04,sa-east-1
+Amazon S3,55.00,2026-04-04,sa-east-1
+Amazon RDS,85.00,2026-04-04,sa-east-1
+AWS Lambda,20.00,2026-04-04,sa-east-1
