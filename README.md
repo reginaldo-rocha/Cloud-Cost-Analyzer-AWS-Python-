@@ -18,6 +18,7 @@ Construir um pipeline básico de dados para:
 
 ## ☁️ Fonte de dados
 
+
 Os dados foram extraídos do **Cost Explorer da AWS**
 (Amazon Web Services)
 
@@ -54,19 +55,24 @@ AWS Cost Explorer → CSV → Python (Pandas) → Insights
 
 ### 🔹 Cost Explorer (AWS)
 
-*(adicione print aqui)*
+<img width="1349" height="609" alt="aws" src="https://github.com/user-attachments/assets/6c203885-f561-42b7-ae83-c9ea78c308ae" />
+
+
 
 ### 🔹 Dataset (CSV)
 
-*(adicione print aqui)*
+<img width="1362" height="570" alt="Captura de tela 2026-05-06 001835" src="https://github.com/user-attachments/assets/2bcd7dbb-2a47-44ff-9b27-b00377cd073e" />
+
 
 ### 🔹 Execução no VS Code
 
-*(adicione print do terminal com resultado)*
+<img width="1358" height="686" alt="resultado" src="https://github.com/user-attachments/assets/42634cb7-b665-4416-aa3d-1a3e430a4ecf" />
+
 
 ### 🔹 Gráfico de custos
 
-*(adicione print do gráfico)*
+<img width="1353" height="757" alt="imagem" src="https://github.com/user-attachments/assets/3571defb-671f-45fd-8374-221174a44b7e" />
+
 
 ---
 
