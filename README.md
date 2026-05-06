@@ -90,7 +90,6 @@ AWS Cost Explorer → CSV → Python (Pandas) → Insights
 * Python
 * Pandas
 * AWS Cost Explorer
-* S3 (opcional)
 
 ---
 
@@ -100,18 +99,8 @@ AWS Cost Explorer → CSV → Python (Pandas) → Insights
 pip install pandas matplotlib
 python analysis.py
 ```
-
 ---
 
-## 🚀 Próximos passos
-
-* Automatizar ingestão de dados
-* Criar dashboard (Power BI / Streamlit)
-* Adicionar múltiplas clouds (Azure / OCI)
-* Implementar detecção de anomalias
-
----
-
-## 📌 Autor
+## 📌 Autor: Reginaldo Rocha
 
 Projeto desenvolvido para estudo de **Cloud + FinOps + Dados**
